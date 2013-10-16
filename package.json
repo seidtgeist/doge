@@ -3,6 +3,9 @@
   "version": "7.0.29-such.version",
   "description": "much package",
   "main": "much-scale.js",
+  "bin": {
+    "doge": "bin/such-cmd.js"
+  },
   "scripts": {
     "test": "is tested"
   },
