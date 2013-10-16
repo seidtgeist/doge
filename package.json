@@ -1,0 +1,27 @@
+{
+  "name": "doge",
+  "version": "7.0.29-such.version",
+  "description": "much package",
+  "main": "much-scale.js",
+  "scripts": {
+    "test": "is tested"
+  },
+  "dependencies": {
+    "such": "1.0.2",
+    "dependency": "2.1",
+    "wow": "0.2.7"
+  },
+  "author": "Doge <doge@much.internet>",
+  "license": "WOW",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ehd/doge.git"
+  },
+  "keywords": [
+    "wow",
+    "such",
+    "keywords",
+    "nice"
+  ]
+}
