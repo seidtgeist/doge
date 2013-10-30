@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "git://github.com/ehd/doge.git"
 	},
-										"bin": {
+	"nice": "amaze",									"bin": {
 											"doge": "bin/such-cmd.js"
 										},
 		"name": "doge",
@@ -16,4 +16,7 @@
 										"keywords": [ "wow", 
 											"such", "keywords", "nice", 
 									"very", "doge", "shiba", "inu" ],
-	"version": "8.6.72-much.update",			"description": "much package"}
+	"version": "8.6.72-much.update",			"description": "much package",
+                                      "dependencies": {
+                                           "colors": "~0.6.2",
+                           }}
