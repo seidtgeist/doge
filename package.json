@@ -1,22 +1,33 @@
-{				"main": "lib/such-code.js",
-							"scripts": {
-								"test": "is tested"
-							},
-													"license": "WOW",
-	"readmeFilename": "README.md",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/ehd/doge.git"
-	},
-	"nice": "amaze",									"bin": {
-											"doge": "bin/such-cmd.js"
-										},
-		"name": "doge",
-								"author": "Doge <doge@much.internet>",
-										"keywords": [ "wow", 
-											"such", "keywords", "nice", 
-									"very", "doge", "shiba", "inu" ],
-	"version": "8.6.72-much.update",			"description": "much package",
-                                      "dependencies": {
-                                           "colors": "~0.6.2"
-                           }}
+{
+  "main": "lib/such-code.js",
+  "scripts": {
+    "test": "is tested"
+  },
+  "license": "WOW",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ehd/doge.git"
+  },
+  "nice": "amaze",
+  "bin": {
+    "doge": "bin/such-cmd.js"
+  },
+  "name": "doge",
+  "author": "Doge <doge@much.internet>",
+  "keywords": [
+    "wow",
+    "such",
+    "keywords",
+    "nice",
+    "very",
+    "doge",
+    "shiba",
+    "inu"
+  ],
+  "version": "19.9.9-much.party",
+  "description": "much package",
+  "dependencies": {
+    "colors": "~0.6.2"
+  }
+}
