@@ -1,27 +1,19 @@
-{
-  "name": "doge",          "version": "8.6.72-much.update",
-  "description": "much package",       "main": "much-scale.js",
-                                    "bin": {
-    "doge": "bin/such-cmd.js"
-
-                                      },"scripts": {                "test": "is tested"
-  },
-                      "dependencies": {
-                                              "such": "1.0.2",
-    "dependency": "2.1",
-                                 "wow": "0.2.7"
-  },
-  "author": "Doge <doge@much.internet>",
-                                             "license": "WOW",
-                   "readmeFilename": "README.md",
-  "repository": {
-                                           "type": "git",
-    "url": "git://github.com/ehd/doge.git"
-  },
-"keywords": [
-    "wow",                 "such",
-              "keywords",
-    "nice"         ]
-    
-    
-    }
+{				"main": "lib/such-code.js",
+							"scripts": {
+								"test": "is tested"
+							},
+													"license": "WOW",
+	"readmeFilename": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ehd/doge.git"
+	},
+										"bin": {
+											"doge": "bin/such-cmd.js"
+										},
+		"name": "doge",
+								"author": "Doge <doge@much.internet>",
+										"keywords": [ "wow", 
+											"such", "keywords", "nice", 
+									"very", "doge", "shiba", "inu" ],
+	"version": "8.6.72-much.update",			"description": "much package"}
