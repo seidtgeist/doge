@@ -2,6 +2,11 @@
 
 nice readme
 
+``` sh
+$ npm install doge
+           # wow
+```
+
 ![much colours](https://files.app.net/zng4yKFf.png)
 
 ## LICENSE
